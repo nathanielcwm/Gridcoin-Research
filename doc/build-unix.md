@@ -2,7 +2,7 @@ UNIX BUILD NOTES
 ====================
 Some notes on how to build Gridcoin in Unix.
 
-(for OpenBSD specific instructions, see [build-openbsd.md](build-openbsd.md))
+(For BSD specific instructions, see build-*bsd.md in this directory.)
 
 Note
 ---------------------
